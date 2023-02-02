@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,6 +16,9 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=5met4nka&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **5met4nka/5met4nka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
